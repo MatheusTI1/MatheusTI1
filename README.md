@@ -1,8 +1,17 @@
+# Hello, I'm Matheus 👨‍💻
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24D3DC&height=120&section=header"/>
 
+
+### Olá! Meu nome é Matheus Souza e sou um estudante entusiasmado de análise e desenvolvimento de sistemas. Desde cedo, despertei um grande interesse pelo mundo da tecnologia e sua capacidade de transformar a maneira como vivemos e interagimos.
+### Estou atualmente dedicando meus estudos para aprimorar minhas habilidades técnicas e teóricas nessa área. Minha paixão pela programação começou quando tive meu primeiro contato com a lógica de programação e percebi como é gratificante criar soluções através do código.
+
+
+
+
+
 <div align="center">  
-<h2>Matheus Souza <br>
-Cursando: Analise e Desenvolvimento de Sistemas
+<!-- <h2>Matheus Souza <br> -->
+<h2>Cursando: Analise e Desenvolvimento de Sistemas
 </div>
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusTI1&bg_color=001224&color=ffffff&line=148fad&point=00eeff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
