@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24D3DC&height=120&section=header"/>
 
 
-### Olá! Meu nome é Matheus Souza e sou um estudante entusiasmado de análise e desenvolvimento de sistemas. Desde cedo, despertei um grande interesse pelo mundo da tecnologia e sua capacidade de transformar a maneira como vivemos e interagimos.
+### Olá! Meu nome é Matheus e sou um estudante entusiasmado de análise e desenvolvimento de sistemas. Desde cedo, despertei um grande interesse pelo mundo da tecnologia e sua capacidade de transformar a maneira como vivemos e interagimos.
 ### Estou atualmente dedicando meus estudos para aprimorar minhas habilidades técnicas e teóricas nessa área. Minha paixão pela programação começou quando tive meu primeiro contato com a lógica de programação e percebi como é gratificante criar soluções através do código.
 
 
